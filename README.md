@@ -52,7 +52,7 @@ On first run, HRNZipper will offer to integrate with Windows:
 ### Build from Source
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/hrnzipper.git
+git clone https://github.com/HarunYaman/Hrnzipper
 cd hrnzipper
 
 # Install dependencies
