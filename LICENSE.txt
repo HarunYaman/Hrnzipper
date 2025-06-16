@@ -1,0 +1,13 @@
+HRNZipper - Professional Archive Management Tool
+Copyright (c) 2025 Harun Softwares. All rights reserved.
+
+This software is licensed for commercial and personal use.
+For support, contact: support@harunsoftwares.com
+Website: https://harunsoftwares.com
+
+License Terms:
+- You may use this software for personal and commercial purposes
+- Redistribution requires written permission from Harun Softwares
+- No warranty is provided with this software
+
+Harun Softwares - Professional Software Solutions
